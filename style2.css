@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div1{
+padding: 5px;
+    background-color: rgb(18, 107, 209);
+}
+.pree{
+    color: #fff;
+}
+.div2{
+    background-color: rgb(18, 107, 209);
+}
+.srch{
+    background-color: rgb(18, 107, 209);
+    padding: 30px;
+}
+.btn1{
+    color: #fff;
+    background-color: rgb(4, 132, 252);
+    border: solid rgb(16, 19, 228);
+}
+.s2{
+    margin-top: 20px;
+}
+.s2 button{
+    padding: 5px;
+    margin-top: 10px;
+    border: solid transparent;
+    
+}
+.spc{
+    background-color: rgb(240, 212, 56);
+    border: solid transparent;
+}
+.p1{
+    color: rgb(63, 62, 63);
+}
+.hh1{
+    color: rgb(235, 238, 34);
+}
+.btn2{
+    background-color: rgb(24, 107, 231);
+    color: white;
+}
+.s3{
+   background-image: url(./images.jpeg);
+   background-repeat: no-repeat;
+   padding: 40px;
+  height: 160%;
+  background-size: 300px;
+}
+.d4 button{
+ background-color: rgb(22, 119, 184);
+ color: #fff;
+}
+.d4 {
+    background-color: rgb(22, 119, 184);
+   }
+.ss3{
+    margin-top: 70px;
+ 
+}
+.ss3 h1{
+  color: #fff;
+}
+.cl1{
+    background-color: rgb(22, 119, 184);
+}
